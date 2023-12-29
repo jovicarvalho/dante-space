@@ -2,7 +2,7 @@ import Banner from "components/Banner";
 import * as React from "react";
 import styles from "./Home.module.css";
 import posts from "json/posts.json";
-import Post from "components/Post";
+import Post from "components/PostCard";
 import Footer from "components/Footer";
 const Home = () => {
   return (
